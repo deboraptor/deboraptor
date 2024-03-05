@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 </br>
-<div align="center"> 
+<div> 
    <a href="https://github.com/deboraptor" >
      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraptor&hide=html&langs_count=4&theme=radical"" alt="Débora's GitHub languages" height="200"/>
    </a>
