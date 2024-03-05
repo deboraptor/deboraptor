@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 </br>
 <div align="center"> 
    <a href="https://github.com/deboraptor" >
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraptor&langs_count=4&theme=onedark"" alt="Débora's GitHub languages" height="200"/>
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraptor&hide=html&langs_count=4&theme=radical"" alt="Débora's GitHub languages" height="200"/>
    </a>
    
    <a href="https://github.com/deboraptor">
-       <img align="right" src="https://github-readme-stats.vercel.app/api/?username=deboraptor&theme=onedark&show_icons=true" alt="Débora's GitHub page" height="200"/>
+       <img align="right" src="https://github-readme-stats.vercel.app/api/?username=deboraptor&hide=html&theme=radical&show_icons=true" alt="Débora's GitHub page" height="200"/>
    </a>
 </div>
