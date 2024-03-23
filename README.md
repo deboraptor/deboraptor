@@ -1,4 +1,4 @@
-### About me
+## About me
 Hi ! 👋 My name is Débora and I am a NLP student at Sorbonne Nouvelle University. I am passionate about languages and technology, and I am constantly learning new things to improve my skills.
 
 ღ꧁✼ _I am currently learning_ ✼꧂ღ 
@@ -43,6 +43,6 @@ Here are some ideas to get you started:
        <img align="center" src="https://github-readme-stats.vercel.app/api/?username=deboraptor&hide=html&theme=radical&show_icons=true" alt="Débora's GitHub page" height="175"/>
    </a>
 </div>
-
+</br>
 If you have any questions, advice or anything, you can reach me in my LinkedIn : 
 👉 <a href="https://www.linkedin.com/in/debora-van-den-zande/">Mon LinkedIn<a>
