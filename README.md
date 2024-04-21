@@ -1,5 +1,5 @@
-## About me
-Hi ! 👋 My name is Débora and I am a NLP student at Sorbonne Nouvelle University. I am passionate about languages and technology, and I am constantly learning new things to improve my skills.
+## 🤔 About me
+Hi ! 👋 My name is Débora and I am a **NLP student** at Sorbonne Nouvelle University. I am passionate about languages and technology, and I am constantly learning new things to improve my skills.
 
 ### I am currently learning
 * Python
@@ -15,6 +15,7 @@ And I wish I could learn R and C++ !
 * English (B2)
 * Spanish (B1)
 * Japanese (A2)
+
 And I also have a lot interest in Occitan (regional language in France, mostly in the south), LSF (French Sign Language), Chinese, Russian, German, Polish, and many other languages. 
 
 <!--
