@@ -1,7 +1,7 @@
 ## About me
 Hi ! 👋 My name is Débora and I am a NLP student at Sorbonne Nouvelle University. I am passionate about languages and technology, and I am constantly learning new things to improve my skills.
 
-ღ꧁✼ _I am currently learning_ ✼꧂ღ 
+### I am currently learning
 * Python
 * HTML / CSS / JavaScript
 * XML / Xpat / XSLT / XQuery
@@ -10,7 +10,7 @@ Hi ! 👋 My name is Débora and I am a NLP student at Sorbonne Nouvelle Univers
 
 And I wish I could learn R and C++ !
 
-*•.¸♡ _Languages I Am Learning_ ♡¸.•*
+### Languages I Am Learning
 * Korean (B2)
 * English (B2)
 * Spanish (B1)
@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 </div>
 </br>
 If you have any questions, advice or anything, you can reach me in my LinkedIn : 
-👉 <a href="https://www.linkedin.com/in/debora-van-den-zande/">Mon LinkedIn<a>
+👉 <a href="https://www.linkedin.com/in/debora-van-den-zande/">My LinkedIn<a>
