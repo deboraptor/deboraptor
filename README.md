@@ -1,49 +1,56 @@
 ## 🤔 About me
-Hi ! 👋 My name is Débora and I am a **NLP student** at Sorbonne Nouvelle University. I am passionate about languages and technology, and I am constantly learning new things to improve my skills.
+Hi! 👋 My name is Débora. I recently graduated in **Natural Language Processing** from University Paris Nanterre.  
+I'm passionate about languages and technology, and I'm always learning new things to sharpen my skills.
+
 
 ### I am currently learning
 * Python
-* HTML / CSS / JavaScript
-* XML / Xpat / XSLT / XQuery
 * SQL
-* Bash / Perl / PowerShell
+* HTML / CSS
+* JavaScript
+* R
+* XML / Xpath / XSLT / XQuery
 
-And I wish I could learn R and C++ !
+🛠️ And I would love to learn C++ one day!
 
-### Languages I Am Learning
-* Korean (B2)
-* English (B2)
-* Spanish (B1)
-* Japanese (A2)
+---
 
-And I also have a lot interest in Occitan (regional language in France, mostly in the south), LSF (French Sign Language), Chinese, Russian, German, Polish, and many other languages. 
+### 👩‍💻 2025 Dev Goals (or at least I'll try)
+- [ ] Text translation and summarization (automatic NLP tasks)
+- [ ] Vector representations (embeddings using Gensim)
+- [ ] Object-Oriented Programming (OOP in Python)
+- [ ] APIs with Flask / FastAPI
+- [ ] Statistical analysis of public datasets (e.g. data.gouv.fr)
+- [ ] Writing cleaner code: unit testing with `pytest`, type hints with `mypy`
+- [ ] Complementary training: OpenClassrooms, DataCamp, Coursera
 
-<!--
-**deboraptor/deboraptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Languages I’m Learning
+* Korean – B2
+* English – B2 
+* Spanish – B1
+* Japanese – A2
+* Arabic - A1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m also very interested in:
+* Occitan (a regional language from southern France)
+* LSF (French Sign Language)
+* Chinese, Russian, German, Polish… and basically any language that crosses my path!
+
+---
 
 ## 📈 GitHub Stats
 </br>
-<div text-align="center"> 
+<div align="center"> 
    <a href="https://github.com/deboraptor" >
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraptor&hide=html&langs_count=4&theme=radical"" alt="Débora's GitHub languages" height="175"/>
    </a>
-   
    <a href="https://github.com/deboraptor">
        <img align="center" src="https://github-readme-stats.vercel.app/api/?username=deboraptor&hide=html&theme=radical&show_icons=true" alt="Débora's GitHub page" height="175"/>
    </a>
 </div>
 </br>
+
 If you have any questions, advice or anything, you can reach me in my LinkedIn : 
-👉 <a href="https://www.linkedin.com/in/debora-van-den-zande/">My LinkedIn<a>
+👉 <a href="https://www.linkedin.com/in/debora-van-den-zande/">My LinkedIn</a>
