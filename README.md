@@ -27,18 +27,21 @@ I'm passionate about languages and technology, and I'm always learning new thing
 ---
 
 ### Languages I’m Learning
-* Korean – B2
-* English – B2 
-* Spanish – B1
-* Japanese – A2
-* Arabic - A1
+
+| Language  | Level                 |
+|-----------|-----------------|
+| French    | 🔵🔵🔵🔵🔵🔵       |
+| English   | 🔵🔵🔵🔵⚪⚪       |
+| Korean    | 🔵🔵🔵🔵⚪⚪       |
+| Spanish   | 🔵🔵🔵⚪⚪⚪       |
+| Japanese  | 🔵🔵⚪⚪⚪⚪       |
+| Arabic    | 🔵⚪⚪⚪⚪⚪       |
 
 I’m also very interested in:
 * Occitan (a regional language from southern France)
 * LSF (French Sign Language)
 * Chinese, Russian, German, Polish… and basically any language that crosses my path!
 
----
 
 ## 📈 GitHub Stats
 </br>
