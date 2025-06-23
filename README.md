@@ -47,7 +47,7 @@ I’m also very interested in:
 </br>
 <div align="center"> 
    <a href="https://github.com/deboraptor" >
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraptor&hide=html&langs_count=4&theme=radical"" alt="Débora's GitHub languages" height="175"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraptor&hide=html,css,javascript&langs_count=4&theme=radical" alt="Débora's GitHub languages" height="175"/>
    </a>
    <a href="https://github.com/deboraptor">
        <img align="center" src="https://github-readme-stats.vercel.app/api/?username=deboraptor&hide=html&theme=radical&show_icons=true" alt="Débora's GitHub page" height="175"/>
