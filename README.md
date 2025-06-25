@@ -4,22 +4,22 @@
   </a>
 </div>
 
+<div id="languages">
+  <img src="https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Bash-89E051?style=flat&logo=GNU%20Bash&logoColor=black" alt="Bash Badge"/>
+</div>
 
-## 🤔 About me
-Hi! 👋 My name is Débora. I recently graduated in **Natural Language Processing** from University Paris Nanterre.  
-I'm passionate about languages and technology, and I'm always learning new things to sharpen my skills.
 
 <div id="gitandlinuxenjoyer">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux Badge"/>
 </div>
-  
-### I am currently learning
 
-<div id="languages">
-  <img src="https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white" alt="Cpp Badge"/>
-  <img src="https://img.shields.io/badge/Bash-89E051?style=flat&logo=GNU%20Bash&logoColor=black" alt="sh Badge"/>
-</div>
+## 🤔 About me
+Hi! 👋 My name is Débora. I recently graduated in **Natural Language Processing** from University Paris Nanterre.  
+I'm passionate about languages and technology, and I'm always learning new things to sharpen my skills.
+
+### I am currently learning
 
 * Python
 * SQL
