@@ -19,6 +19,8 @@
 Hi! 👋 My name is Débora. I recently graduated in **Natural Language Processing** from University Paris Nanterre.  
 I'm passionate about languages and technology, and I'm always learning new things to sharpen my skills.
 
+<a href="https://gitmoji.dev/">Gitmoji</a> enjoyer !
+
 ### I am currently learning
 
 * Python
@@ -26,9 +28,8 @@ I'm passionate about languages and technology, and I'm always learning new thing
 * HTML / CSS
 * JavaScript
 * R
-* XML / Xpath / XSLT / XQuery
-
-🛠️ And I would love to learn C++ one day!
+* C#
+* C/C++
 
 ---
 
@@ -40,6 +41,11 @@ I'm passionate about languages and technology, and I'm always learning new thing
 - [ ] Statistical analysis of public datasets (e.g. data.gouv.fr)
 - [ ] Writing cleaner code: unit testing with `pytest`, type hints with `mypy`
 - [ ] Complementary training: OpenClassrooms, DataCamp, Coursera
+- [ ] Transformers Hugging Face
+- [ ] CI/CD: Docker, MLflow
+- [ ] PyTorch
+- [ ] Deep knowledge: LLaMA, T5, BERT
+- [ ] LangChain
 
 ---
 
