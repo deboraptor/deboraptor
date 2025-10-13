@@ -19,7 +19,7 @@
 Hi! 👋 My name is Débora. I recently graduated in **Natural Language Processing** from University Paris Nanterre.  
 I'm passionate about languages and technology, and I'm always learning new things to sharpen my skills.
 
-<a href="https://gitmoji.dev/">Gitmoji</a> enjoyer !
+<a href="https://gitmoji.dev/">Gitmoji</a> enjoyer!
 
 ### I am currently learning
 
@@ -28,14 +28,16 @@ I'm passionate about languages and technology, and I'm always learning new thing
 * HTML / CSS
 * JavaScript
 * R
-* C#
 * C/C++
+
+And I wish I could learn C# one day!
 
 ---
 
 ### 👩‍💻 2025 Dev Goals (or at least I'll try)
 - [ ] Text translation and summarization (automatic NLP tasks)
 - [ ] Vector representations (embeddings using Gensim)
+- [ ] Embeddings
 - [ ] Object-Oriented Programming (OOP in Python)
 - [ ] APIs with Flask / FastAPI
 - [ ] Statistical analysis of public datasets (e.g. data.gouv.fr)
@@ -46,6 +48,8 @@ I'm passionate about languages and technology, and I'm always learning new thing
 - [ ] PyTorch
 - [ ] Deep knowledge: LLaMA, T5, BERT
 - [ ] LangChain
+- [ ] NLTK
+- [ ] NER with Spacy
 
 ---
 
@@ -78,5 +82,5 @@ I’m also very interested in:
 </div>
 </br>
 
-If you have any questions, advice or anything, you can reach me in my LinkedIn : 
+If you have any questions, advice or anything, you can reach me in my LinkedIn: 
 👉 <a href="https://www.linkedin.com/in/debora-van-den-zande/">My LinkedIn</a>
