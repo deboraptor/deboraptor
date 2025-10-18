@@ -50,6 +50,7 @@ And I wish I could learn C# one day!
 - [ ] LangChain
 - [ ] NLTK
 - [ ] NER with Spacy
+- [ ] NumPy
 
 ---
 
