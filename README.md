@@ -30,7 +30,7 @@ I'm passionate about languages and technology, and I'm always learning new thing
 * R
 * C/C++
 
-And I wish I could learn C# one day!
+And I wish I could learn C# and Ruby one day!
 
 ---
 
