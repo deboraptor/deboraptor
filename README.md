@@ -34,26 +34,6 @@ And I wish I could learn C# and Ruby one day!
 
 ---
 
-### 👩‍💻 2025 Dev Goals (or at least I'll try)
-- [ ] Text translation and summarization (automatic NLP tasks)
-- [ ] Vector representations (embeddings using Gensim)
-- [ ] Embeddings
-- [ ] Object-Oriented Programming (OOP in Python)
-- [ ] APIs with Flask / FastAPI
-- [ ] Statistical analysis of public datasets (e.g. data.gouv.fr)
-- [ ] Writing cleaner code: unit testing with `pytest`, type hints with `mypy`
-- [ ] Complementary training: OpenClassrooms, DataCamp, Coursera
-- [ ] Transformers Hugging Face
-- [ ] CI/CD: Docker, MLflow
-- [ ] PyTorch
-- [ ] Deep knowledge: LLaMA, T5, BERT
-- [ ] LangChain
-- [ ] NLTK
-- [ ] NER with Spacy
-- [ ] NumPy
-
----
-
 ### Languages I’m Learning
 
 | Language  | Level                 |
