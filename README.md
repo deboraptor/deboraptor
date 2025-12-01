@@ -25,12 +25,11 @@ I'm passionate about languages and technology, and I'm always learning new thing
 
 * Python
 * SQL
+* C/C++
+* C#
 * HTML / CSS
 * JavaScript
 * R
-* C/C++
-
-And I wish I could learn C# and Ruby one day!
 
 ---
 
