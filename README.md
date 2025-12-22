@@ -27,6 +27,7 @@ I'm passionate about languages and technology, and I'm always learning new thing
 * SQL
 * C/C++
 * C#
+* Swift
 * HTML / CSS
 * JavaScript
 * R
