@@ -15,6 +15,10 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux Badge"/>
 </div>
 
+<div id="banner">
+   <img src="banner.png" alt="Banner">
+</div>
+
 ## 🤔 About me
 Hi! 👋 My name is Débora. I recently graduated in **Natural Language Processing** from University Paris Nanterre.  
 I'm passionate about languages and technology, and I'm always learning new things to sharpen my skills.
