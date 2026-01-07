@@ -48,11 +48,12 @@ I'm passionate about languages and technology, and I'm always learning new thing
 | Spanish   | 🔵🔵🔵⚪⚪⚪       |
 | Japanese  | 🔵🔵⚪⚪⚪⚪       |
 | Arabic    | 🔵⚪⚪⚪⚪⚪       |
+| Chinese   | 🔵⚪⚪⚪⚪⚪       |
 
 I’m also very interested in:
 * Occitan (a regional language from southern France)
 * LSF (French Sign Language)
-* Chinese, Russian, German, Polish… and basically any language that crosses my path!
+* Russian, German, Polish… and basically any language that crosses my path!
 
 
 ## 📈 GitHub Stats
